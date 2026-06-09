@@ -1,0 +1,73 @@
+Team1,Team2,Group,Team 1 Win,Draw,Team 2 win
+Mexico,South Korea,A,Mexico : 50.61 %,15.76 %,South Korea : 33.63 %
+Mexico,Czechia,A,Mexico : 48.87 %,16.61 %,Czechia : 34.52 %
+Mexico,South Africa,A,Mexico : 53.59 %,18.73 %,South Africa : 27.68 %
+South Korea,Czechia,A,South Korea : 51.93 %,19.56 %,Czechia : 28.51 %
+South Korea,South Africa,A,South Korea : 53.36 %,16.6 %,South Africa : 30.03 %
+Czechia,South Africa,A,Czechia : 55.96 %,16.37 %,South Africa : 27.66 %
+Canada,Switzerland,B,Canada : 48.18 %,21.57 %,Switzerland : 30.24 %
+Switzerland,Bosnia and Herzegovina,B,Switzerland : 51.48 %,21.06 %,Bosnia and Herzegovina : 27.46 %
+Switzerland,Qatar,B,Switzerland : 52.34 %,24.37 %,Qatar : 23.29 %
+Canada,Bosnia and Herzegovina,B,Canada : 51.28 %,18.39 %,Bosnia and Herzegovina : 30.32 %
+Canada,Qatar,B,Canada : 50.57 %,22.15 %,Qatar : 27.28 %
+Bosnia and Herzegovina,Qatar,B,Bosnia and Herzegovina : 56.74 %,22.72 %,Qatar : 20.54 %
+Brazil,Morocco,C,Brazil : 47.99 %,15.49 %,Morocco : 36.52 %
+Brazil,Scotland,C,Brazil : 45.52 %,16.38 %,Scotland : 38.1 %
+Brazil,Haiti,C,Brazil : 45.01 %,23.56 %,Haiti : 31.43 %
+Morocco,Scotland,C,Morocco : 51.42 %,23.41 %,Scotland : 25.18 %
+Morocco,Haiti,C,Morocco : 51.33 %,23.81 %,Haiti : 24.86 %
+Scotland,Haiti,C,Scotland : 48.68 %,18.0 %,Haiti : 33.33 %
+Turkey,Paraguay,D,Turkey : 51.46 %,20.84 %,Paraguay : 27.7 %
+Turkey,Australia,D,Turkey : 50.25 %,16.86 %,Australia : 32.89 %
+United States,Turkey,D,United States : 50.91 %,19.74 %,Turkey : 29.35 %
+Paraguay,Australia,D,Paraguay : 49.52 %,14.84 %,Australia : 35.64 %
+United States,Paraguay,D,United States : 46.38 %,28.27 %,Paraguay : 25.35 %
+United States,Australia,D,United States : 49.09 %,28.55 %,Australia : 22.36 %
+Ecuador,Germany,E,Ecuador : 51.89 %,19.83 %,Germany : 28.28 %
+Ecuador,Ivory Coast,E,Ecuador : 47.72 %,17.7 %,Ivory Coast : 34.58 %
+Ecuador,Curaçao,E,Ecuador : 48.35 %,23.8 %,Curaçao : 27.85 %
+Germany,Ivory Coast,E,Germany : 47.96 %,18.44 %,Ivory Coast : 33.61 %
+Germany,Curaçao,E,Germany : 46.97 %,25.98 %,Curaçao : 27.05 %
+Ivory Coast,Curaçao,E,Ivory Coast : 49.36 %,23.64 %,Curaçao : 27.01 %
+Netherlands,Japan,F,Netherlands : 47.8 %,18.05 %,Japan : 34.16 %
+Netherlands,Sweden,F,Netherlands : 47.48 %,16.97 %,Sweden : 35.54 %
+Netherlands,Tunisia,F,Netherlands : 50.18 %,17.81 %,Tunisia : 32.01 %
+Japan,Sweden,F,Japan : 45.38 %,17.93 %,Sweden : 36.69 %
+Japan,Tunisia,F,Japan : 51.43 %,18.69 %,Tunisia : 29.88 %
+Sweden,Tunisia,F,Sweden : 52.2 %,22.05 %,Tunisia : 25.75 %
+Belgium,Iran,G,Belgium : 48.52 %,22.7 %,Iran : 28.78 %
+Belgium,Egypt,G,Belgium : 49.47 %,21.01 %,Egypt : 29.51 %
+Belgium,New Zealand,G,Belgium : 49.41 %,24.81 %,New Zealand : 25.78 %
+Iran,Egypt,G,Iran : 47.76 %,20.51 %,Egypt : 31.72 %
+Iran,New Zealand,G,Iran : 55.25 %,18.33 %,New Zealand : 26.42 %
+Egypt,New Zealand,G,Egypt : 58.44 %,15.25 %,New Zealand : 26.31 %
+Spain,Uruguay,H,Spain : 52.34 %,15.85 %,Uruguay : 31.82 %
+Spain,Cape Verde,H,Spain : 46.27 %,20.58 %,Cape Verde : 33.15 %
+Spain,Saudi Arabia,H,Spain : 45.53 %,20.07 %,Saudi Arabia : 34.4 %
+Uruguay,Cape Verde,H,Uruguay : 50.26 %,25.31 %,Cape Verde : 24.43 %
+Uruguay,Saudi Arabia,H,Uruguay : 52.6 %,21.48 %,Saudi Arabia : 25.92 %
+Cape Verde,Saudi Arabia,H,Cape Verde : 55.18 %,18.51 %,Saudi Arabia : 26.31 %
+France,Norway,I,France : 54.21 %,13.74 %,Norway : 32.04 %
+France,Senegal,I,France : 50.53 %,14.77 %,Senegal : 34.7 %
+France,Iraq,I,France : 46.64 %,21.47 %,Iraq : 31.88 %
+Norway,Senegal,I,Norway : 49.15 %,14.41 %,Senegal : 36.45 %
+Norway,Iraq,I,Norway : 47.58 %,22.63 %,Iraq : 29.78 %
+Senegal,Iraq,I,Senegal : 48.84 %,24.55 %,Iraq : 26.61 %
+Argentina,Austria,J,Argentina : 51.39 %,13.98 %,Austria : 34.63 %
+Argentina,Algeria,J,Argentina : 50.96 %,14.68 %,Algeria : 34.35 %
+Argentina,Jordan,J,Argentina : 47.42 %,16.51 %,Jordan : 36.07 %
+Austria,Algeria,J,Austria : 49.48 %,18.6 %,Algeria : 31.92 %
+Austria,Jordan,J,Austria : 52.34 %,21.76 %,Jordan : 25.89 %
+Algeria,Jordan,J,Algeria : 52.78 %,25.35 %,Jordan : 21.87 %
+Portugal,Colombia,K,Portugal : 54.83 %,18.21 %,Colombia : 26.96 %
+Portugal,Uzbekistan,K,Portugal : 48.94 %,18.02 %,Uzbekistan : 33.04 %
+Portugal,Congo,K,Portugal : 48.32 %,17.11 %,Congo : 34.57 %
+Colombia,Uzbekistan,K,Colombia : 47.28 %,16.97 %,Uzbekistan : 35.75 %
+Colombia,Congo,K,Colombia : 47.74 %,16.8 %,Congo : 35.46 %
+Uzbekistan,Congo,K,Uzbekistan : 53.0 %,17.93 %,Congo : 29.07 %
+England,Croatia,L,England : 55.9 %,17.46 %,Croatia : 26.64 %
+England,Panama,L,England : 46.59 %,18.55 %,Panama : 34.86 %
+England,Ghana,L,England : 46.96 %,22.39 %,Ghana : 30.65 %
+Croatia,Panama,L,Croatia : 47.67 %,21.26 %,Panama : 31.07 %
+Croatia,Ghana,L,Croatia : 50.85 %,20.1 %,Ghana : 29.05 %
+Panama,Ghana,L,Panama : 53.53 %,17.71 %,Ghana : 28.75 %
